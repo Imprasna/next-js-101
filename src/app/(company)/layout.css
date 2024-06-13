@@ -1,0 +1,17 @@
+.layout_border {
+    background: #fff;
+    color: #000;
+    border: 2px solid sandybrown;
+    padding: 1.5rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.left {
+    width: 30%;
+}
+
+.right {
+    width: 70%;
+}
