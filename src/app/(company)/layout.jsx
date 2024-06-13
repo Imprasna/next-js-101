@@ -2,7 +2,7 @@ import React from 'react';
 import './layout.css';
 import Link from 'next/link';
 
-const Layout = ({children}) => {
+const Layout = ({ children }) => {
   return (
     <div className="layout_border">
       <div className="left">

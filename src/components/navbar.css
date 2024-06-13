@@ -1,0 +1,20 @@
+.header {
+    padding: 2rem;
+    background: #f4f4f4;
+    color: #000;
+    font-weight: 600;
+    font-style: italic;
+    letter-spacing: 1.5px;
+}
+
+.likss {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 10px;
+    transition: all .3s ease-in-out;
+}
+
+.likss > p:hover {
+    text-decoration: underline;
+}
