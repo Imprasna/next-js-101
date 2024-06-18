@@ -1,0 +1,9 @@
+.default-dashboard {
+    height: 20vh;
+    width: 800px;
+    border-radius: 10px;
+    background: crimson;
+    color: #fff;
+    font-weight: 800;
+    font-size: 1.7rem;
+}

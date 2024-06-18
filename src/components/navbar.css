@@ -4,7 +4,9 @@
     color: #000;
     font-weight: 600;
     font-style: italic;
-    letter-spacing: 1.5px;
+    letter-spacing: 1px;
+    display: flex;
+    justify-content: center;
 }
 
 .likss {
@@ -15,6 +17,11 @@
     transition: all .3s ease-in-out;
 }
 
-.likss > p:hover {
-    text-decoration: underline;
+.likss > p > a {
+    transition: all .3s ease-in-out;
+}
+
+.likss > p > a:hover {
+    text-decoration: none;
+    font-weight: 800;
 }

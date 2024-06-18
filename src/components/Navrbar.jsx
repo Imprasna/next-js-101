@@ -12,6 +12,7 @@ const Navrbar = () => {
               <p><Link href="/team">Team</Link></p>
               <p><Link href="/contact">Contact</Link></p>
               <p><Link href="/blog">Blog</Link></p>
+              <p><Link href="/setting">Settings</Link></p>
           </div>
     </div>
   )
